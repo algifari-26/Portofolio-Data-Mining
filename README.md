@@ -1,4 +1,4 @@
-# Portofolio Data Mining & Analytics: Studi Kasus Retail (Mall Customers)
+# Data Mining & Analytics: Studi Kasus Retail (Mall Customers)
 
 **Dibuat oleh:** Muhammad Al Gifari  
 **Tools:** Python, Google Colab, Pandas, Scikit-Learn, Matplotlib  
