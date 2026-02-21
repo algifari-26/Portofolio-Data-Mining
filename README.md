@@ -1,2 +1,2 @@
 # Portofolio_Data analyst
-Segementasi pelanggan menggunakan Pyhton dan algoritma K-Means.
+Segementasi pelanggan menggunakan Pyhton 
