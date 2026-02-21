@@ -25,5 +25,4 @@ Repositori ini berisi rangkaian proyek analisis data (*Data Mining*) menggunakan
 
 ---
 *Silakan klik judul file `.ipynb` di atas untuk melihat kode lengkap dan visualisasi grafiknya.*
-
-*Perlu diketahui analisis ini menggunakan dataset publik Mall_Customers.csv yang bersumber dari Kaggle.*
+*dan analisis ini menggunakan dataset publik Mall_Customers.csv yang bersumber dari Kaggle.*
